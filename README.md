@@ -1,2 +1,2 @@
-# Javaの練習用GitHub  
+# Javaの練習用  
 基礎編
